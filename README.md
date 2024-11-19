@@ -41,6 +41,13 @@ This project focuses on analyzing a retail orders dataset to generate actionable
   - 📍 sqlalchemy for create_engine
     
 - **SQL:** Queries for analysis and insights.
+   - Top Revenue Generating Products
+   - Best-Selling Products by Region
+   - Month-over-Month Sales Growth
+   - Category-Wise Best Sales Month
+   - Sub-Category Profit Growth
+   - Discount Effectiveness
+   - Shipping Mode Analysis
 - **Database:** 🗄️ MySQL for data storage and querying.
 
 ---
