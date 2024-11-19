@@ -48,8 +48,8 @@ This project focuses on analyzing a retail orders dataset to generate actionable
 ## **⚙️ Setup Instructions**
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/retail-orders-analysis.git
-
+   git clone https://github.com/theDhanendra/retail-orders-analysis.git
+   
 2. Navigate the project directory:
    ```bash
    cd retail-orders-analysis
